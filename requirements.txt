@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-multipart
+sqlmodel
+scikit-learn
+spacy
+neo4j
+redis
+pydantic
+pydantic-settings
+python-docx
+requests
+pymupdf
+sentence-transformers
+torch
+numpy
