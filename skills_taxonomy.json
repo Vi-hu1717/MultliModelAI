@@ -1,0 +1,17 @@
+{
+  "IT & Software": [
+    "Python", "Java", "C++", "JavaScript", "TypeScript", "React", "Angular", "Vue", "Node.js", 
+    "FastAPI", "Django", "Flask", "PostgreSQL", "MongoDB", "Redis", "Docker", "Kubernetes", "AWS", "Azure"
+  ],
+  "Data Science & AI": [
+    "Machine Learning", "Deep Learning", "NLP", "Computer Vision", "TensorFlow", "PyTorch", 
+    "Scikit-Learn", "Pandas", "NumPy", "SQL", "Tableau", "Power BI", "R", "Data Mining"
+  ],
+  "Soft Skills": [
+    "Leadership", "Communication", "Problem Solving", "Time Management", "Project Management", 
+    "Agile", "Scrum", "Critical Thinking", "Teamwork"
+  ],
+  "Design": [
+    "UI/UX", "Figma", "Adobe XD", "Photoshop", "Illustrator", "Canva", "Graphic Design"
+  ]
+}
